@@ -1,4 +1,4 @@
-# robotgrasp_wfp
+# Robot Grasping with FoundationPose Foundation Model
 
 Project Overview:
 FoundationPose is a SOTA foundation model approach to 6D pose estimation and 3D object tracking. How can we use this to perform precise robotic grasping?
