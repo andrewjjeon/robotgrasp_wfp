@@ -12,9 +12,14 @@ Approach: Run 2x instances of FoundationPose - 1x on robot hand/configuration, 1
 
 
 
-Setup/Environment + How to Run demo + Pre-trained model
+Setup/Environment
 
-Please follow the environment setup and demo instructions from the FoundationPose github repository.
+Please follow the environment setup and demo instructions from the FoundationPose github repository. In there you can find the following
+- Pre-trained model weights
+- Expected Output
+- How to Run demo
+- Docker environment is pre-defined, you simply have to run/build it
+
 
 All requirements will automatically be built as part of the docker environment, this is included in the FoundationPose repository.
 
