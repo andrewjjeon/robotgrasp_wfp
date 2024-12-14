@@ -8,8 +8,10 @@ Approach: Run 2x instances of FoundationPose - 1x on robot hand/configuration, 1
 - With these two, you should be able to calculate the hand/configuration-to-object pose matrix, if this matrix is accurate enough you should be able to grasp objects.
 - The end goal is to be able to run foundationpose on ANY object and ANY robot and have it work.
 
+Data 
 - Preliminary experiments will be done with the HOPE dataset and Panda Frank Emika Robot
-
+- 
+https://github.com/swtyree/hope-dataset
 
 
 Setup/Environment
