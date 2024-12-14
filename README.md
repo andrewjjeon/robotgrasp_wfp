@@ -16,6 +16,8 @@ Setup/Environment + How to Run demo + Pre-trained model
 
 Please follow the environment setup and demo instructions from the FoundationPose github repository.
 
+All requirements will automatically be built as part of the docker environment, this is included in the FoundationPose repository.
+
 ![image](https://github.com/user-attachments/assets/7b36bcb5-80ff-49f6-85f6-73eb2e48a1fc)
 
 ![image](https://github.com/user-attachments/assets/7effbfb0-689c-4f1d-a247-9622b9d41401)
